@@ -6,7 +6,8 @@
     ＼　　||￣￣￣￣￣￣||
     　 ＼_ﾉ|| 
 [hi i'm catherine! i'm currently...](https://cathyang.me) 
-- enabling aws/azure for ml workflows on lumina @ rbc borealis
+- curr @ shopify
+- prev aws/azure for ml lifecycles @ rbc borealis
 - building for non-profits
 - drawing, designing, repeat
 - and of course, trying to beat canadian weather
